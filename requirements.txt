@@ -1,1 +1,7 @@
 streamlit
+nlu
+pyspark
+spark-nlp
+scikit-learn
+pandas
+numpy
